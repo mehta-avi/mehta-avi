@@ -12,18 +12,12 @@ Finding Parking Through Google Geocoding API (ReactJS + Flask).
 
 📋 Interests:
 
-Traveling, 
-
-Photography,
-
-Formula 1,
-
-Ultimate Frisbee,
-
-Soccer,
-
-Cricket,
-
+Traveling
+Photography
+Formula 1
+Ultimate Frisbee
+Soccer
+Cricket
 Numismatics
 
 💬 Reach out through LinkedIn! www.linkedin.com/in/mehtavi
