@@ -12,7 +12,7 @@ UI/UX Design intern at 3i-Infotech - Developing wireframes and mockups. [Bangkok
 
 📍 Currently Working On:
 
-Finding Parking Through Google Geocoding API (ReactJS + Flask).
+Creating Discord Trading Bots by building an API alongside the Blankly Connect framework (Node.js + Javascript + Python).
 
 📋 Interests:
 
