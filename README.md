@@ -4,7 +4,7 @@ My name is Avi and I'm a computer science student at VT. Here's some quick info 
 
 🚀 Work experience:
 
-Founding Engineer at Blankly Finance [Blacksburg, VA. Present]
+Founding Engineer at Blankly Finance [Ann Arbor, MI. Present]
 
 Software Engineer intern at Brands on Road - Complete front-end development using React and Mongo. [Bangkok, Thailand. Summer 2020]
 
