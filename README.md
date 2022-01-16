@@ -6,9 +6,9 @@ My name is Avi and I'm a computer science student at VT. Here's some quick info 
 
 Founding Engineer at Blankly Finance [Ann Arbor, MI. Present]
 
-Software Engineer intern at Brands on Road - Complete front-end development using React and Mongo. [Bangkok, Thailand. Summer 2020]
+Software Engineer Intern at Brands on Road - Complete front-end development using React and Mongo. [Bangkok, Thailand. Summer 2020]
 
-UI/UX Design intern at 3i-Infotech - Developing wireframes and mockups. [Bangkok, Thailand. Summer 2020]
+UI/UX Design Intern at 3i-Infotech - Developing wireframes and mockups. [Bangkok, Thailand. Summer 2020]
 
 📍 Currently Working On:
 
