@@ -14,6 +14,8 @@ UI/UX Design Intern at 3i-Infotech - Developing wireframes and mockups. [Bangkok
 
 Leetcoding
 
+Manajira using the MERN stack along with GraphQL providing an agile project management workflow
+
 URLShortener using Python and Flask to enable submission tracking and dynamic routing
 
 📋 Interests:
@@ -24,8 +26,6 @@ Photography
 
 Formula 1
 
-Ultimate Frisbee
-
-Cricket
+Soccer
 
 💬 Reach out through LinkedIn! www.linkedin.com/in/mehtavi
