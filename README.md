@@ -18,9 +18,15 @@ UI/UX Design Intern at 3i-Infotech - Developing wireframes and mockups. [Bangkok
 
 Leetcoding
 
-Manajira using the MERN stack along with GraphQL providing an agile project management workflow
+MoodSync - AI Based music player
 
-URLShortener using Python and Flask to enable submission tracking and dynamic routing
+ChefMeUp - Cross platform app to counter food insecurity
+
+FindMeParking - AI Based parking finder
+
+📖 Past Projects:
+
+Can be found on my profile
 
 📋 Interests:
 
