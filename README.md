@@ -39,6 +39,7 @@ Formula 1
 Soccer
 
 💬 Reach out through:
+
 [Website](avimehta.info)
 
 [Linkedin](https://www.linkedin.com/in/mehtavi/)
