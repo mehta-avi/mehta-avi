@@ -40,6 +40,6 @@ Soccer
 
 💬 Reach out through:
 
-[Website](avimehta.info)
+[Website](https://avimehta.netlify.app/)
 
 [Linkedin](https://www.linkedin.com/in/mehtavi/)
