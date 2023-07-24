@@ -3,6 +3,7 @@
 My name is Avi and I'm a computer science student at VT. Here's some quick info about me!
 
 🚀 Work experience:
+
 Internal IT Auditor at Truist - Conducting tests of ITGC [Charlotte, NC. June 2023 - Present]
 
 Undergraduate Teaching Assistant at VT Department of CS - TA for Intro to Human Computer Interaction. [Blacksburg, VA. Aug 2022 - May 2023]
