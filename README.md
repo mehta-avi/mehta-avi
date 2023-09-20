@@ -1,6 +1,6 @@
 👋 **Hi there**
 
-My name is Avi and I'm a computer science student at VT. Here's some quick info about me!
+My name is Avi and I'm a recent computer science grad from Virginia Tech. Here's some quick info about me!
 
 🚀 Work experience:
 
@@ -16,11 +16,11 @@ UI/UX Design Intern at 3i-Infotech - Developing wireframes and mockups. [Bangkok
 
 📍 Currently:
 
-Leetcoding
+Building...
 
 📖 Past Projects:
 
-Can be found on my profile
+Check out my profile!
 
 💬 Reach out through:
 
