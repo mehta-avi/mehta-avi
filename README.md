@@ -9,9 +9,9 @@
   
 &nbsp;  Software Engineer at Blankly Finance (Backed by Contrary and RDV) - Working on the package side.  [Ann Arbor, MI. Oct 2021 - May 2022]
   
-&nbsp;  Software Engineer Intern at Brands on Road - Complete front-end development using React and Mongo. [Bangkok, Thailand. Summer 2020]
+&nbsp;  Software Engineer Intern at Brands on Road - Complete front-end development using React and Mongo. [Bangkok, Thailand. July 2020 - August 2020]
   
-&nbsp;  UI/UX Design Intern at 3i-Infotech - Developing wireframes and mockups. [Bangkok, Thailand. Summer 2020]
+&nbsp;  UI/UX Design Intern at 3i-Infotech - Developing wireframes and mockups. [Bangkok, Thailand. June 2017 - July 2017]
 
 📍 Currently:
 
