@@ -28,4 +28,4 @@ My name is Avi and I'm a recent computer science grad from Virginia Tech. Here's
 
 &nbsp;  [Website](https://avimehta.netlify.app/)
   
-&nbsp  [Linkedin](https://www.linkedin.com/in/mehtavi/)
+&nbsp;  [Linkedin](https://www.linkedin.com/in/mehtavi/)
