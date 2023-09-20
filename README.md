@@ -8,7 +8,7 @@ Undergraduate Teaching Assistant at VT Department of CS - TA for Intro to Human 
 
 Undergraduate Researcher at VT Department of CS - Researching with AR/VR. [Blacksburg, VA. Aug 2022 - Dec 2022]
 
-Software Engineer at Blankly Finance - Working on the package side.  [Ann Arbor, MI. Oct 2021 - May 2022]
+Software Engineer at Blankly Finance (Backed by Contrary and RDV) - Working on the package side.  [Ann Arbor, MI. Oct 2021 - May 2022]
 
 Software Engineer Intern at Brands on Road - Complete front-end development using React and Mongo. [Bangkok, Thailand. Summer 2020]
 
