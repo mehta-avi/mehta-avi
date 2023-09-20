@@ -1,6 +1,5 @@
-👋 **Hi there**
-
-My name is Avi and I'm a recent computer science grad from Virginia Tech. Here's some quick info about me!
+<h1 align="center">👋Hi there, I'm Avi</h1>
+<h3 align="center">Recent Computer Science Grad from Virginia Tech 🦃</h3>
 
 🚀 Work experience:
 
