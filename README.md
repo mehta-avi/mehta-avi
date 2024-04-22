@@ -3,7 +3,7 @@
 
 🚀 Work experience:
 
-&nbsp; Data Analyst at Truist - Analytics for Truist Audit Services. [Blacksburg, VA. Jan 2024 - Present]
+&nbsp; Data Analyst at Truist - Analytics for Truist Audit Services. [Charlotte, NC. Jan 2024 - Present]
 
 &nbsp; Internal IT Audit at Truist - SDLC/Cybersecurity/CM testing for Truist Audit Services. [Charlotte, NC. June 2023 - Dec 2023]
 
