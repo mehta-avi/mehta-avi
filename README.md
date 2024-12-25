@@ -2,6 +2,7 @@
 <h3 align="center">Recent Computer Science Grad from Virginia Tech 🦃</h3>
 
 🚀 Work experience:
+
 &nbsp; Data Scientist at Truist - Working with CCAR and CECL on the Treasury team. [Charlotte, NC. Dec 2024 - Present]
 
 &nbsp; BI Engineer at Truist - Analytics for Truist Audit Services. [Charlotte, NC. June 2023 - Nov 2024]
